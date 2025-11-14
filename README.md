@@ -1,6 +1,8 @@
 <!-- HEADER -->
 <div align="center">
   <img src="https://github.com/Martin-Wenzel/Martin-Wenzel/blob/main/Martin_Wenzel_Banner.png" height="180 "width="100%"/>
+  <img src="https://github.com/Martin-Wenzel/Martin-Wenzel/blob/main/Martin_Wenzel_Banner.png" alt="banner" style="width:100%; height:auto; max-height:200px; object-fit:cover;" />
+
 </div>
 
 <br/>
