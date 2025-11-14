@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00c8&height=100&section=header&text=Martin%20Wenzel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github.com/Martin-Wenzel/Martin-Wenzel/blob/main/Martin_Wenzel_Banner.png" width="100%"/>
 </div>
 
 <br/>
