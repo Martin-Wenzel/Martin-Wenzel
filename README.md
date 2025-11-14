@@ -5,8 +5,6 @@
 
 <br/>
 
-<h1 align="center">Hey, I'm Martin 👋</h1>
-
 <p align="center">
   <strong>Developer • Designer • Systems Builder</strong><br/>
   Crafting apps, games, and tools with obsessive detail and questionable sleep habits.
