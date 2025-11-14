@@ -5,11 +5,22 @@
 
 <br/>
 
-<p align="center">
-  <strong>Developer • Designer • Systems Builder</strong><br/>
-  Crafting apps, games, and tools with obsessive detail and questionable sleep habits.
+<h3 align="center">Developer • Designer • Systems Builder Crafting apps, games, and tools with obsessive detail and questionable sleep habits.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martin-wenzel&label=Views&color=fa00f2&style=flat" alt="martin-wenzel" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martin-wenzel" alt="martin-wenzel" /></a> </p>
+
+- 🔭 I’m currently working on **A cozy habit-healing mobile app**
+
+- 🌱 I’m currently learning **Unity, Kafka and Nest.js**
+
+- 💬 Ask me about **Symfony, React, Shopware**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_nihil.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nihil.php" height="30" width="40" /></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=martin-wenzel&color=blue&style=flat-square" alt="Profile Views"/>
 ---
 
 ## 🧠 What I Do
