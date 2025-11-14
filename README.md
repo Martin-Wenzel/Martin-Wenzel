@@ -7,7 +7,7 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=28&duration=3000&color=FF00E1&center=true&vCenter=true&width=600&lines=Martin+Wenzel;FullStack+Developer+%E2%80%A2+Designer+%E2%80%A2+Systems+Builder;Neon+Dystopia+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=28&duration=3000&color=FF00E1&center=true&vCenter=true&width=600&lines=Martin+Wenzel;FullStack+Developer;Designer+%E2%80%A2+Systems+Builder;Neon+Dystopia+Architect" />
 </h1>
 
 <div align="center">
