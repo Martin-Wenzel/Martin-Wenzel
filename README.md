@@ -65,8 +65,10 @@ AI-powered social media insight tool for creators and businesses.
 ## 📈 GitHub Overview
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true)
+
 </div>
 
 ---
