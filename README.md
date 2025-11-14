@@ -7,7 +7,7 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=28&duration=3000&color=FF00E1&center=true&vCenter=true&width=600&lines=Martin+Wenzel;Developer+%E2%80%A2+Designer+%E2%80%A2+Systems+Builder;Synthwave+Enthusiast;Neon+Dystopia+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=28&duration=3000&color=FF00E1&center=true&vCenter=true&width=600&lines=Martin+Wenzel;Full-Stack-Developer+%E2%80%A2+Designer+%E2%80%A2+Systems+Builder;Neon+Dystopia+Architect" />
 </h1>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌌 About Me (in neon)
+## 🌌 About Me
 
 I build things that feel like  
 **retro-futurist tech from an alternate timeline.**
@@ -24,13 +24,12 @@ I build things that feel like
 - 🕹 Unity addict  
 - 🌐 Full-stack dev who self-hosts everything  
 - 💡 UX nerd who refuses to make ugly things  
-- 🎛 Synthwave enjoyer  
 - 🧪 AI tinkerer  
 - 🧩 Builder of systems that don’t fall apart (usually)
 
 ---
 
-## 🧬 Tech Stack (Synthwave Edition)
+## 🧬 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,php,cs,js,react,nextjs,symfony,unity,docker,linux,nginx,git,nodejs,postgres,redis,python,tailwind&theme=dark" />
@@ -38,7 +37,7 @@ I build things that feel like
 
 ---
 
-## 🛸 GitHub Stats (Cyber Edition)
+## 🛸 GitHub Stats
 
 <div align="center">
 
@@ -55,13 +54,13 @@ I build things that feel like
 
 ## 🧠 What I Build  
 
-### 🟣 Neon Software  
+### 🟣 Software  
 Self-hosted apps • AI tools • Dashboards • Data engines
 
-### 🔵 Vaporwave Mobile  
+### 🔵 Mobile  
 React Native • Expo • Soul-soothing habit apps
 
-### 🌑 Cyber-Gothic Games  
+### 🌑 Games  
 Unity • Interaction Systems • Atmospheric Worldbuilding
 
 ---
