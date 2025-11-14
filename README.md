@@ -82,6 +82,6 @@ body {
   overflow: hidden;
   animation: glitch 3s infinite;
 }
-``
+```
 
 <div align="center"> <a href="https://instagram.com/_nihil.php"> <img src="https://img.shields.io/badge/Instagram-%23ff00cc.svg?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=minutemailer&logoColor=ff00ff" /> </a> </div> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" /> </p> <p align="center"> <sub style="color:#ff00ff;">✨ “Reality is optional. Style is mandatory.” ✨</sub> </p> ```
