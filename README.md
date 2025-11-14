@@ -97,3 +97,28 @@ AI-powered social media insight tool for creators and businesses.
 <p align="center">
   <sub>Building things that make life a little easier, stranger, or more interesting.</sub>
 </p>
+
+
+## 1. GitHub Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true)
+
+## 2. Most Used Languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&theme=blue-green)
+
+## 3. Contributors Badge
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=martin-wenzel/Python)
+
+## 4. Random Joke Generator
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 5. Profile View Counter
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=martin-wenzel)
+
+### Repository View Counter - HITS
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/martin-wenzel/Python)
