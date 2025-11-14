@@ -1,86 +1,108 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Martin-Wenzel/Martin-Wenzel/main/Martin_Wenzel_Banner2.png" 
-       alt="banner" width="100%" style="border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/Martin-Wenzel/Martin-Wenzel/main/Martin_Wenzel_Banner2.png"
+       alt="banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=28&duration=3000&color=FF00E1&center=true&vCenter=true&width=600&lines=Martin+Wenzel;FullStack+Developer;Designer+%E2%80%A2+Systems+Builder;Neon+Dystopia+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=28&duration=2800&color=00F6FF&center=true&vCenter=true&width=650&lines=Martin+Wenzel;Full-Stack+Developer;Designer;Systems+Builder" />
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=martin-wenzel&label=NEON+VIEWERS&color=ff00c8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=martin-wenzel&label=VIEWS&color=00f6ff&style=for-the-badge" />
 </div>
 
 ---
 
-## 🌌 About Me
+## 🔧 About  
+I design & build modern software:  
+**high-performance apps**, **functional UIs**, **clean systems**, and **well-built game mechanics**.
 
-I build things that feel like  
-**retro-futurist tech from an alternate timeline.**
+Focus areas:
 
-- 🕹 Unity addict  
-- 🌐 Full-stack dev who self-hosts everything  
-- 💡 UX nerd who refuses to make ugly things  
-- 🧪 AI tinkerer  
-- 🧩 Builder of systems that don’t fall apart (usually)
+- Unity development  
+- Next.js / React  
+- Symfony & backend architecture  
+- System design  
+- Self-hosted stacks  
+- AI-driven tooling  
 
 ---
 
 ## 🧬 Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,php,cs,js,react,nextjs,symfony,unity,docker,linux,nginx,git,nodejs,postgres,redis,python,tailwind&theme=dark" />
 </div>
 
 ---
 
-## 🛸 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true&theme=synthwave&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true&theme=synthwave&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&layout=compact&theme=synthwave&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&layout=compact&theme=synthwave&hide_border=true" height="165"/>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-wenzel&theme=neon-dark&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=martin-wenzel&theme=neon-dark&hide_border=true" height="165" />
+
 </div>
 
 ---
 
-## 🧠 What I Build  
+## 🛠 Work  
 
-### 🟣 Software  
-Self-hosted apps • AI tools • Dashboards • Data engines
+### Software  
+Web apps · Backends · Tooling · Dashboards
 
-### 🔵 Mobile  
-React Native • Expo • Soul-soothing habit apps
+### Mobile  
+React Native · Expo
 
-### 🌑 Games  
-Unity • Interaction Systems • Atmospheric Worldbuilding
+### Games  
+Unity systems · Interaction logic · World prototypes  
 
 ---
 
-## 👾 Matrix-Style Code Block  
-Because why not:
+## 🗡 Code Block (Matrix UI Theme)
 
 ```css
-/* reality.css */
+/* ui.shader */
+
+:root {
+  --neon: #00f6ff;
+  --pulse: #ff00e1;
+}
 
 body {
-  background: linear-gradient(135deg, #ff00cc, #00eaff);
-  filter: blur(0.2px);
+  background: #000;
+  color: var(--neon);
   font-family: "IBM Plex Mono", monospace;
 }
 
-.system {
+.scanlines {
+  position: relative;
   overflow: hidden;
-  animation: glitch 3s infinite;
 }
-```
 
-<div align="center"> <a href="https://instagram.com/_nihil.php"> <img src="https://img.shields.io/badge/Instagram-%23ff00cc.svg?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=minutemailer&logoColor=ff00ff" /> </a> </div> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" /> </p> <p align="center"> <sub style="color:#ff00ff;">✨ “Reality is optional. Style is mandatory.” ✨</sub> </p> ```
+.scanlines::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.03) 0px,
+      rgba(255,255,255,0.03) 2px,
+      transparent 2px,
+      transparent 4px
+  );
+  animation: flicker 4s infinite;
+}
+``
+<div align="center"> <a href="https://instagram.com/_nihil.php"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff00e1" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00f6ff" /> </a> </div> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" /> </p> <p align="center"> <sub style="color:#00f6ff;">Minimal. Neon. Functional.</sub> </p> ```
