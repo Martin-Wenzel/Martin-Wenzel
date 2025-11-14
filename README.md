@@ -104,5 +104,6 @@ body {
   );
   animation: flicker 4s infinite;
 }
-``
-<div align="center"> <a href="https://instagram.com/_nihil.php"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff00e1" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00f6ff" /> </a> </div> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" /> </p> <p align="center"> <sub style="color:#00f6ff;">Minimal. Neon. Functional.</sub> </p> ```
+```
+<div align="center"> <a href="https://instagram.com/_nihil.php"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff00e1" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00f6ff" /> </a> </div> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" /> </p> <p align="center"> <sub style="color:#00f6ff;">Minimal. Neon. Functional.</sub> </p>
+</div>
