@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://github.com/Martin-Wenzel/Martin-Wenzel/blob/main/Martin_Wenzel_Banner.png" alt="banner" width="100%" />
+  <img src="https://github.com/Martin-Wenzel/Martin-Wenzel/blob/main/Martin_Wenzel_Banner2.png" alt="banner" width="100%" />
 </div>
 
 <br/>
