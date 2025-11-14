@@ -67,43 +67,5 @@ Unity systems · Interaction logic · World prototypes
 
 ---
 
-## 🗡 Code Block (Matrix UI Theme)
-
-```css
-/* ui.shader */
-
-:root {
-  --neon: #00f6ff;
-  --pulse: #ff00e1;
-}
-
-body {
-  background: #000;
-  color: var(--neon);
-  font-family: "IBM Plex Mono", monospace;
-}
-
-.scanlines {
-  position: relative;
-  overflow: hidden;
-}
-
-.scanlines::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: repeating-linear-gradient(
-      to bottom,
-      rgba(255,255,255,0.03) 0px,
-      rgba(255,255,255,0.03) 2px,
-      transparent 2px,
-      transparent 4px
-  );
-  animation: flicker 4s infinite;
-}
-```
 <div align="center"> <a href="https://instagram.com/_nihil.php"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff00e1" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=00f6ff" /> </a> </div> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" /> </p> <p align="center"> <sub style="color:#00f6ff;">Minimal. Neon. Functional.</sub> </p>
 </div>
