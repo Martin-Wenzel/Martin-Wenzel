@@ -1,95 +1,84 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://github.com/Martin-Wenzel/Martin-Wenzel/blob/main/Martin_Wenzel_Banner2.png" alt="banner" width="100%" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/Martin-Wenzel/Martin-Wenzel/main/Martin_Wenzel_Banner2.png" 
+       alt="banner" width="100%" style="border-radius:10px;" />
 </div>
 
 <br/>
 
-<h1 align="center">✨ Martin Wenzel ✨</h1>
-
-<p align="center">
-  <strong>Developer • Designer • Systems Builder</strong><br/>
-  Crafting apps, games, and tools with obsessive detail and questionable sleep habits.
-</p>
-
-<br/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=28&duration=3000&color=FF00E1&center=true&vCenter=true&width=600&lines=Martin+Wenzel;Developer+%E2%80%A2+Designer+%E2%80%A2+Systems+Builder;Synthwave+Enthusiast;Neon+Dystopia+Architect" />
+</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=martin-wenzel&label=Profile%20Views&color=ff0080&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=martin-wenzel&label=NEON+VIEWERS&color=ff00c8&style=for-the-badge" />
 </div>
 
 ---
 
-## 🌌 What I Do  
-**Building things that feel good. Neon-coded. Player-focused. Clean.**  
+## 🌌 About Me (in neon)
 
-- Narrative-driven Unity experiences  
-- Self-hosted apps with Symfony, React, and Next.js  
-- Beautiful UI/UX that doesn’t make people cry  
-- Fast, scalable backend architectures  
-- Weird AI tooling experiments (the fun kind)
+I build things that feel like  
+**retro-futurist tech from an alternate timeline.**
 
----
-
-## 🧪 Tech Stack  
-### ⚡ Core  
-`TypeScript` · `C#` · `PHP` · `JavaScript` · `SQL`
-
-### 🎛 Frameworks  
-`React` · `Next.js` · `Symfony` · `Unity` · `Expo / React Native`
-
-### 🛠 Tools  
-`Docker` · `Linux` · `Nginx` · `Git` · `REST APIs`
+- 🕹 Unity addict  
+- 🌐 Full-stack dev who self-hosts everything  
+- 💡 UX nerd who refuses to make ugly things  
+- 🎛 Synthwave enjoyer  
+- 🧪 AI tinkerer  
+- 🧩 Builder of systems that don’t fall apart (usually)
 
 ---
 
-## 🎛 Synthwave GitHub Stats
+## 🧬 Tech Stack (Synthwave Edition)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,php,cs,js,react,nextjs,symfony,unity,docker,linux,nginx,git,nodejs,postgres,redis,python,tailwind&theme=dark" />
+</div>
+
+---
+
+## 🛸 GitHub Stats (Cyber Edition)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true&theme=synthwave&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true&theme=synthwave&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=martin-wenzel&layout=compact&theme=synthwave&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&layout=compact&theme=synthwave&hide_border=true" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-wenzel&theme=synthwave&hide_border=true" height="165" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=martin-wenzel&theme=neon-dark&hide_border=true" height="170" />
 </div>
 
 ---
 
-## 🎨 Languages & Tools  
-<div align="center">
+## 🧠 What I Build  
 
-<img src="https://skillicons.dev/icons?i=ts,php,cs,js,react,nextjs,symfony,unity,docker,linux,nginx,postgres,mysql,redis,python,tailwind,git,nodejs&theme=dark" />
+### 🟣 Neon Software  
+Self-hosted apps • AI tools • Dashboards • Data engines
 
-</div>
+### 🔵 Vaporwave Mobile  
+React Native • Expo • Soul-soothing habit apps
 
----
-
-## 🚧 Currently Building  
-- A cozy, forgiving habit-healing app  
-- A modular Unity crafting + interaction system  
-- A self-hosted AI analysis suite  
+### 🌑 Cyber-Gothic Games  
+Unity • Interaction Systems • Atmospheric Worldbuilding
 
 ---
 
-## 📡 Connect  
-<div align="center">
+## 👾 Matrix-Style Code Block  
+Because why not:
 
-<a href="https://instagram.com/_nihil.php">
-  <img src="https://img.shields.io/badge/Instagram-%23ff0080.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+```css
+/* reality.css */
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-%23111111.svg?style=for-the-badge&logo=minutemailer&logoColor=white" />
-</a>
+body {
+  background: linear-gradient(135deg, #ff00cc, #00eaff);
+  filter: blur(0.2px);
+  font-family: "IBM Plex Mono", monospace;
+}
 
-</div>
-
-<br/>
-
-<p align="center">
-  <sub style="color:#ff00ff;">“Building things that make life a little easier, stranger, or more interesting.”</sub>
-</p>
+.system {
+  overflow: hidden;
+  animation: glitch 3s infinite;
+}
