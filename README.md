@@ -42,33 +42,32 @@ A mix of **full-stack development**, **game development**, and **UX-driven produ
 
 ---
 
-## 🌟 Featured Builds
-
-### 🎮 **Orwellian Space Game**  
-A dystopian, atmospheric sci-fi experience with a focus on narrative, psychology, and player tension.  
-<sub>Unity • C# • Narrative Systems</sub>
-
----
-
-### 🍽️ **MealBuddy (WIP)**  
-An app that solves the eternal “what do we eat today?” crisis with personalization and AI.  
-<sub>React Native • Expo • Symfony Backend</sub>
-
----
-
-### 🧬 **EngageForge**  
-AI-powered social media insight tool for creators and businesses.  
-<sub>Next.js • Symfony • Analytics</sub>
-
----
-
 ## 📈 GitHub Overview
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&layout=compact&theme=catppuccin_mocha&hide_border=true" />
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true)
+## 1. GitHub Stats
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true)
 
+## 2. Most Used Languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&theme=blue-green)
+
+## 3. Contributors Badge
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=martin-wenzel/Martin-Wenzel)
+
+## 4. Random Joke Generator
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 5. Profile View Counter
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=martin-wenzel)
+
+### Repository View Counter - HITS
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/martin-wenzel/Martin-Wenzel)
 </div>
 
 ---
@@ -97,28 +96,3 @@ AI-powered social media insight tool for creators and businesses.
 <p align="center">
   <sub>Building things that make life a little easier, stranger, or more interesting.</sub>
 </p>
-
-
-## 1. GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true)
-
-## 2. Most Used Languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&theme=blue-green)
-
-## 3. Contributors Badge
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=martin-wenzel/Python)
-
-## 4. Random Joke Generator
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 5. Profile View Counter
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=martin-wenzel)
-
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/martin-wenzel/Python)
