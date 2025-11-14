@@ -9,7 +9,7 @@
   <strong>Developer • Designer • Systems Builder</strong><br/>
   Crafting apps, games, and tools with obsessive detail and questionable sleep habits.
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=martin-wenzel&color=blue&style=flat-square" alt="Profile Views"/>
 ---
 
 ## 🧠 What I Do
@@ -58,13 +58,8 @@ A mix of **full-stack development**, **game development**, and **UX-driven produ
   <!-- Joke Card -->
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=martin-wenzel&color=blue&style=flat-square" alt="Profile Views"/>
-
-  <!-- Hits Counter -->
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/martin-wenzel/Martin-Wenzel" alt="Hits"/>
 </div>
 
 ---
