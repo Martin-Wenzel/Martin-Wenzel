@@ -12,8 +12,6 @@
   Crafting apps, games, and tools with obsessive detail and questionable sleep habits.
 </p>
 
-<br/>
-
 ---
 
 ## 🧠 What I Do
@@ -21,11 +19,11 @@
 I build things that feel good to use.  
 A mix of **full-stack development**, **game development**, and **UX-driven product design**.
 
-- Building narrative-driven games in Unity  
-- Creating self-hosted apps with Symfony, React, and Next.js  
-- Designing interfaces that don’t make people cry  
-- Architecting systems that are fast, clean, and scalable  
-- Experimenting with AI tooling and creative workflows  
+- Narrative-driven Unity games  
+- Self-hosted apps with Symfony, React, and Next.js  
+- Interfaces that don’t make people cry  
+- Clean, scalable backend architecture  
+- Playful experiments with AI and tooling  
 
 ---
 
@@ -45,29 +43,30 @@ A mix of **full-stack development**, **game development**, and **UX-driven produ
 ## 📈 GitHub Overview
 
 <div align="center">
-## 1. GitHub Stats
-  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true)
 
-## 2. Most Used Languages
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=martin-wenzel&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&theme=blue-green)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-wenzel&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
-## 3. Contributors Badge
+  <br/><br/>
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=martin-wenzel/Martin-Wenzel)
+  <!-- Contributors Badge -->
+  <img src="https://contrib.rocks/image?repo=martin-wenzel/Martin-Wenzel" alt="Contributors"/>
 
-## 4. Random Joke Generator
+  <br/><br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+  <!-- Joke Card -->
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 
-## 5. Profile View Counter
+  <br/><br/>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=martin-wenzel)
+  <!-- Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=martin-wenzel&color=blue&style=flat-square" alt="Profile Views"/>
 
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/martin-wenzel/Martin-Wenzel)
+  <!-- Hits Counter -->
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/martin-wenzel/Martin-Wenzel" alt="Hits"/>
 </div>
 
 ---
@@ -75,8 +74,8 @@ A mix of **full-stack development**, **game development**, and **UX-driven produ
 ## 🌱 Currently Building
 
 - A cozy habit-healing mobile app  
-- A modular crafting system for Unity  
-- A fully self-hosted AI content analysis suite  
+- A modular Unity crafting & interaction system  
+- A fully self-hosted AI analysis suite  
 
 ---
 
