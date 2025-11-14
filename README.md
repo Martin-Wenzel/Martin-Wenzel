@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohit19060/rohit19060/main/header.svg" width="100%" alt="welcome banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff00c8&height=100&section=header&text=Martin%20Wenzel&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <br/>
